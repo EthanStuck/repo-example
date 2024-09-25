@@ -54,4 +54,4 @@ func start(pos):
 
 
 func my_func_member():
-	print('hey')
+	print('hey bud')
