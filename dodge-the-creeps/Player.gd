@@ -52,5 +52,6 @@ func start(pos):
 	show()
 	$CollisionShape2D.disabled = false
 
-func git_test():
-	pass
+
+func my_func_member():
+	print('hey')
